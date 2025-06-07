@@ -13,25 +13,8 @@ body {
         h1, h2, h3 {
             color: #00ffff;
         }
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            margin-top: 20px;
-        }
-        th, td {
-            border: 1px solid #555;
-            padding: 10px;
-            text-align: left;
-        }
-        th {
-            background: #333;
-        }
-        tr:nth-child(even) {
-            background: #222;
-        }
-        .section {
-            margin-top: 40px;
-        }
+       
+     
          body {
             background-color: #111;
             color: #fff;
