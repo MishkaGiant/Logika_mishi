@@ -1,3 +1,15 @@
+@import url('https://fonts.googleapis.com/css2?family=Pattaya&display=swap');
+
+.first{
+    text-align:center;
+}
+body {
+    font-family: "Pattaya", sans-serif;
+    background-image: url(https://cdn.pixabay.com/photo/2016/11/23/15/23/cosmos-1853491_1280.jpg);
+    color: #fff;
+    margin: 0;
+    padding: 20px;
+}
 body {
       font-family: Arial, sans-serif;
       background-color: #222;
