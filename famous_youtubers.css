@@ -77,3 +77,12 @@ body {
             text-align:center;
         }
 
+        .btn{
+            padding: 10px 15px;
+            border: 2px solid #6e3a97;
+            background-color: #555;
+            color: #fff;
+            border-radius: 10px;
+           }
+
+        
