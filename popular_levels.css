@@ -10,6 +10,9 @@ body {
     margin: 0;
     padding: 20px;
 }
+ h1, h2, h3 {
+            color: #00ffff;
+        }
 body {
       color: #fff;
       text-align: center;
