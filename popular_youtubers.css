@@ -83,10 +83,13 @@ body {
             background-color: #555;
             color: #fff;
             border-radius: 10px;
-            margin: 5px 10px;
+            margin: -5px 10px;
+          display: inline-block;
            }
          .btn:hover{
-            transform: scale(1.05);
+            transform: scale(1.1);
             background-color: #6aa396;
+            transition: .5s;
+            box-shadow: 0 0 10px 1px #00ffff;
         }
         
