@@ -43,7 +43,4 @@ body {
          .header{
             text-align:center;
         }
-         .header:hower{
-             transform: scale(1.05);
-             background-color: #FF00FF;
-         }
+        
